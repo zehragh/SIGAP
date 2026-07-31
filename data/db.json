@@ -1,0 +1,356 @@
+{
+  "pengaduanList": [],
+  "masterKelurahan": [
+    {
+      "id": "KEL-20180101",
+      "nama": "Galung Maloang",
+      "kecamatan": "Bacukiki",
+      "lat": -4.017922,
+      "lng": 119.662628
+    },
+    {
+      "id": "KEL-20180102",
+      "nama": "Lemoe",
+      "kecamatan": "Bacukiki",
+      "lat": -4.036218,
+      "lng": 119.659498
+    },
+    {
+      "id": "KEL-20180103",
+      "nama": "Lompoe",
+      "kecamatan": "Bacukiki",
+      "lat": -4.016955,
+      "lng": 119.651175
+    },
+    {
+      "id": "KEL-20180104",
+      "nama": "Watang Bacukiki",
+      "kecamatan": "Bacukiki",
+      "lat": -4.055409,
+      "lng": 119.654699
+    },
+    {
+      "id": "KEL-20180201",
+      "nama": "Bumi Harapan",
+      "kecamatan": "Bacukiki Barat",
+      "lat": -4.030275,
+      "lng": 119.63327
+    },
+    {
+      "id": "KEL-20180202",
+      "nama": "Cappa Galung",
+      "kecamatan": "Bacukiki Barat",
+      "lat": -4.037406,
+      "lng": 119.626008
+    },
+    {
+      "id": "KEL-20180203",
+      "nama": "Kampung Baru",
+      "kecamatan": "Bacukiki Barat",
+      "lat": -4.020121,
+      "lng": 119.625438
+    },
+    {
+      "id": "KEL-20180204",
+      "nama": "Lumpue",
+      "kecamatan": "Bacukiki Barat",
+      "lat": -4.057548,
+      "lng": 119.625638
+    },
+    {
+      "id": "KEL-20180205",
+      "nama": "Sumpang Minangae",
+      "kecamatan": "Bacukiki Barat",
+      "lat": -4.041905,
+      "lng": 119.625487
+    },
+    {
+      "id": "KEL-20180206",
+      "nama": "Tiro Sompe",
+      "kecamatan": "Bacukiki Barat",
+      "lat": -4.025043,
+      "lng": 119.62911
+    },
+    {
+      "id": "KEL-20180301",
+      "nama": "Bukit Harapan",
+      "kecamatan": "Soreang",
+      "lat": -3.989515,
+      "lng": 119.648573
+    },
+    {
+      "id": "KEL-20180302",
+      "nama": "Bukit Indah",
+      "kecamatan": "Soreang",
+      "lat": -4.001366,
+      "lng": 119.640152
+    },
+    {
+      "id": "KEL-20180303",
+      "nama": "Kampung Pisang",
+      "kecamatan": "Soreang",
+      "lat": -4.005006,
+      "lng": 119.625209
+    },
+    {
+      "id": "KEL-20180304",
+      "nama": "Lakessi",
+      "kecamatan": "Soreang",
+      "lat": -4.006587,
+      "lng": 119.627497
+    },
+    {
+      "id": "KEL-20180305",
+      "nama": "Ujung Baru",
+      "kecamatan": "Soreang",
+      "lat": -4.008773,
+      "lng": 119.632315
+    },
+    {
+      "id": "KEL-20180306",
+      "nama": "Ujung Lare",
+      "kecamatan": "Soreang",
+      "lat": -4.008414,
+      "lng": 119.6305
+    },
+    {
+      "id": "KEL-20180307",
+      "nama": "Watang Soreang",
+      "kecamatan": "Soreang",
+      "lat": -3.995677,
+      "lng": 119.636516
+    },
+    {
+      "id": "KEL-20180401",
+      "nama": "Labukkang",
+      "kecamatan": "Ujung",
+      "lat": -4.018213,
+      "lng": 119.621762
+    },
+    {
+      "id": "KEL-20180402",
+      "nama": "Lapadde",
+      "kecamatan": "Ujung",
+      "lat": -3.995024,
+      "lng": 119.650082
+    },
+    {
+      "id": "KEL-20180403",
+      "nama": "Mallusetasi",
+      "kecamatan": "Ujung",
+      "lat": -4.012689,
+      "lng": 119.623344
+    },
+    {
+      "id": "KEL-20180404",
+      "nama": "Ujung Bulu",
+      "kecamatan": "Ujung",
+      "lat": -4.015669,
+      "lng": 119.622509
+    },
+    {
+      "id": "KEL-20180405",
+      "nama": "Ujung Sabbang",
+      "kecamatan": "Ujung",
+      "lat": -4.00622,
+      "lng": 119.622864
+    }
+  ],
+  "masterSumber": [
+    {
+      "id": "src-01",
+      "nama": "Loket Pelayanan",
+      "kode": "LOKET",
+      "keterangan": "Pengaduan langsung di Loket Kantor Pertanahan Kota Parepare",
+      "is_active": true
+    },
+    {
+      "id": "src-02",
+      "nama": "SPAN LAPOR!",
+      "kode": "SPAN",
+      "keterangan": "Kanal Sistem Pengelolaan Pengaduan Pelayanan Publik Nasional",
+      "is_active": true
+    },
+    {
+      "id": "src-03",
+      "nama": "Sentuh Tanahku",
+      "kode": "ST",
+      "keterangan": "Aplikasi Resmi Kementerian ATR/BPN Sentuh Tanahku",
+      "is_active": true
+    },
+    {
+      "id": "src-04",
+      "nama": "Call Center / Hotline",
+      "kode": "CC",
+      "keterangan": "Layanan telepon hotline pengaduan",
+      "is_active": true
+    },
+    {
+      "id": "src-05",
+      "nama": "WhatsApp Resmi",
+      "kode": "WA",
+      "keterangan": "Pesan singkat WhatsApp layanan pengaduan BPN Parepare",
+      "is_active": true
+    },
+    {
+      "id": "src-06",
+      "nama": "Email Resmi",
+      "kode": "EMAIL",
+      "keterangan": "Surat elektronik kantah.parepare@atrbpn.go.id",
+      "is_active": true
+    },
+    {
+      "id": "src-07",
+      "nama": "Surat Fisik",
+      "kode": "SURAT",
+      "keterangan": "Surat pengaduan fisik yang dikirim atau diantar",
+      "is_active": true
+    },
+    {
+      "id": "src-08",
+      "nama": "Media Sosial",
+      "kode": "MEDSOS",
+      "keterangan": "Instagram/Facebook official BPN Parepare",
+      "is_active": true
+    },
+    {
+      "id": "src-09",
+      "nama": "Kelurahan",
+      "kode": "KEL",
+      "keterangan": "Pengaduan yang diinput oleh Operator Kelurahan",
+      "is_active": true
+    },
+    {
+      "id": "src-10",
+      "nama": "Kanal Lainnya",
+      "kode": "LAIN",
+      "keterangan": "Sumber kanal pengaduan masyarakat lainnya",
+      "is_active": true
+    }
+  ],
+  "masterJenis": [
+    {
+      "id": "jns-01",
+      "nama": "Sengketa Hak Atas Tanah",
+      "kategori": "Sengketa & Perkara",
+      "deskripsi": "Klaim kepemilikan ganda atau sengketa batas tanah antar pihak",
+      "is_active": true
+    },
+    {
+      "id": "jns-02",
+      "nama": "Tumpang Tindih Sertipikat",
+      "kategori": "Sengketa & Perkara",
+      "deskripsi": "Terbitnya dua atau lebih sertipikat di atas bidang tanah yang sama",
+      "is_active": true
+    },
+    {
+      "id": "jns-03",
+      "nama": "Pengukuran dan Pemetaan",
+      "kategori": "Survei & Pemetaan",
+      "deskripsi": "Kendala penetapan batas, peta bidang, atau hasil ukur",
+      "is_active": true
+    },
+    {
+      "id": "jns-04",
+      "nama": "Keterlambatan Pelayanan",
+      "kategori": "Pelayanan Publik",
+      "deskripsi": "Proses penerbitan/pendaftaran melebihi SOP standar pelayanan",
+      "is_active": true
+    },
+    {
+      "id": "jns-05",
+      "nama": "Sertipikat Hilang / Rusak",
+      "kategori": "Penataan & Hak Tanah",
+      "deskripsi": "Permohonan pengantian sertipikat karena hilang/rusak",
+      "is_active": true
+    },
+    {
+      "id": "jns-06",
+      "nama": "Pemblokiran Bidang Tanah",
+      "kategori": "Penetapan Hak",
+      "deskripsi": "Pengajuan sengketa hukum atau pemblokiran sertipikat",
+      "is_active": true
+    },
+    {
+      "id": "jns-07",
+      "nama": "Informasi & Konsultasi Pertanahan",
+      "kategori": "Informasi",
+      "deskripsi": "Permohonan kejelasan status berkas atau aturan sertipikat",
+      "is_active": true
+    },
+    {
+      "id": "jns-08",
+      "nama": "Lain-lain",
+      "kategori": "Umum",
+      "deskripsi": "Pengaduan jenis pertanahan lainnya",
+      "is_active": true
+    }
+  ],
+  "masterPenanggungJawab": [
+    {
+      "id": "pj-1785397768188",
+      "nama": "Zamrah",
+      "seksi": "Seksi 5 - Sengketa dan Penanganan Perkara",
+      "jabatan": "Kasubag",
+      "email": "a@a.com",
+      "is_active": true
+    }
+  ],
+  "usersList": [
+    {
+      "id": "usr-admin",
+      "username": "admin",
+      "password": "admin123",
+      "nama": "Administrator Kantor Pertanahan",
+      "nip": "198504122008011002",
+      "role": "Admin Kantor Pertanahan",
+      "email": "admin@atrbpn.go.id",
+      "no_hp": "081245678901",
+      "is_active": true
+    }
+  ],
+  "activityLogs": [
+    {
+      "id": "log-1785396418931-851",
+      "timestamp": "2026-07-30T07:26:58.931Z",
+      "username": "admin",
+      "nama_user": "Administrator Kantor Pertanahan",
+      "role": "Admin Kantor Pertanahan",
+      "aktivitas": "Pengaturan",
+      "detail": "Menjalankan eksekusi initializeDatabase() pada spreadsheet installer",
+      "ip_address": "2404:c0:4770::a8f7:4fe5, 169.254.169.126"
+    },
+    {
+      "id": "log-1785391701460-649",
+      "timestamp": "2026-07-30T06:08:21.460Z",
+      "username": "admin",
+      "nama_user": "Administrator Kantor Pertanahan",
+      "role": "Admin Kantor Pertanahan",
+      "aktivitas": "Pengaturan",
+      "detail": "Menjalankan eksekusi initializeDatabase() pada spreadsheet installer",
+      "ip_address": "182.1.194.167, 169.254.169.126"
+    },
+    {
+      "id": "log-1785391619863-687",
+      "timestamp": "2026-07-30T06:06:59.863Z",
+      "username": "admin",
+      "nama_user": "Administrator Kantor Pertanahan",
+      "role": "Admin Kantor Pertanahan",
+      "aktivitas": "Login",
+      "detail": "Pengguna Administrator Kantor Pertanahan berhasil masuk ke sistem",
+      "ip_address": "182.1.194.167, 169.254.169.126"
+    },
+    {
+      "id": "log-1785390217638-615",
+      "timestamp": "2026-07-30T05:43:37.638Z",
+      "username": "admin",
+      "nama_user": "Administrator Kantor Pertanahan",
+      "role": "Admin Kantor Pertanahan",
+      "aktivitas": "Login",
+      "detail": "Pengguna Administrator Kantor Pertanahan berhasil masuk ke sistem",
+      "ip_address": "182.1.194.167, 169.254.169.126"
+    }
+  ],
+  "currentCounter": 5,
+  "activeGasUrl": ""
+}

@@ -1,0 +1,6 @@
+{
+  "name": "SIGAP - Pengaduan Pertanahan Parepare",
+  "description": "Sistem Informasi Pengaduan Pertanahan Kantor Pertanahan Kota Parepare - Platform Integrasi, Monitoring, dan Pengawalan Penyelesaian Pengaduan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

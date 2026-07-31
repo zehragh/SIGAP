@@ -1,0 +1,20 @@
+/**
+ * SIGAP - System Configuration & Constants
+ */
+
+var CONFIG = {
+  APP_NAME: "SIGAP - Sistem Informasi Pengaduan Pertanahan",
+  INSTITUTION: "Kantor Pertanahan Kota Parepare",
+  VERSION: "1.0.0",
+  SHEET_NAMES: {
+    PENGADUAN: "PENGADUAN",
+    ANTREAN_APPROVAL: "ANTREAN_APPROVAL",
+    TINDAK_LANJUT: "TINDAK_LANJUT",
+    MASTER_KELURAHAN: "MASTER_KELURAHAN",
+    MASTER_SUMBER: "MASTER_SUMBER",
+    MASTER_JENIS: "MASTER_JENIS",
+    PENGGUNA: "PENGGUNA",
+    LOG_AKTIVITAS: "LOG_AKTIVITAS",
+    SYSTEM_COUNTER: "SYSTEM_COUNTER"
+  }
+};
